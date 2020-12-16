@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+Here is my description:   
+A student studying CS in school, also a EDM music producer with ***3k+ fans*** on Netease in China   
+
+### And this is my personal page, hope you enjoy it~
 
 <!--
 **BATTLEHAWK00/battlehawk00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
