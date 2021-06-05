@@ -1,9 +1,11 @@
 ## Hi there!:satisfied:
-Here is my description:   
-A student studying CS in school, also a EDM music producer with ***3k+ fans*** on Netease in China   
+A student major in Software Engineering, also a EDM music producer with ***3k+ fans*** on Netease in China   
+## Stats
+![BATTLEHAWK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlehawk00&show_icons=true&theme=tokyonight)  
 ## Learn More About Me
-***My Blog(博客页面)***: ***[Click Me](//battlehawk233.cn)***
+**Personal Blog(博客主页)**: ***[Click Me](//battlehawk233.cn)***  
+**Netease Music(网易云主页)**: ***[Click Me](//music.163.com/#/user/home?id=66732339)***(ID:HawkLegend)
 * not just about programming, it's all about share something and express
 
-### This is my personal GitHub page, hope you enjoy it.
-### And I'm about to change the world with my hands now. Peace~:tada:
+#### Every cloud has a siver lining.
+#### Programming is not just about "HelloWorld". It's a long way to go. Peace~:tada:
