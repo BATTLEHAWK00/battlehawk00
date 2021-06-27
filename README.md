@@ -1,7 +1,7 @@
 ## Hi there!:satisfied:
-A student major in Software Engineering, also a EDM music producer with ***3k+ fans*** on Netease in China, learning guitar finger style.   
-Feel Free to Subscribe!
-## Stats
+A student major in Software Engineering, also a :headphones:EDM music producer with ***3k+ fans*** on Netease in China, learning :guitar:guitar finger style.   
+Feel Free to :bell:Subscribe!
+## Stats:bar_chart:
 
 <table>
 <tr>
@@ -18,7 +18,7 @@ Feel Free to Subscribe!
 </tr>
 </table>
 
-## Learn More About Me
+## Learn More About Me:octocat:
 **Gitee(码云)**: ***[Click Me](https://gitee.com/battlehawk)***  
 **Personal Blog(个人博客)**: ***[Click Me](//battlehawk233.cn)***  
 **Netease Music(网易云主页)**: ***[Click Me](//music.163.com/#/user/home?id=66732339)*** (ID:HawkLegend)  
