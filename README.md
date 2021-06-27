@@ -5,14 +5,14 @@ Feel Free to Subscribe!
 
 <table>
 <tr>
-<td valign="top" width="54%">
+<td valign="top" width="65%" align="center">
   
-![BATTLEHAWK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlehawk00&show_icons=true&theme=tokyonight)  
+![BATTLEHAWK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlehawk00&show_icons=true&theme=tokyonight&count_private=true)  
   
 </td>
-<td valign="top" width="46%">
+<td valign="top" width="35%" align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlehawk00&show_icons=true&theme=tokyonight&hide=HTML,CSS,VUE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlehawk00&show_icons=true&theme=tokyonight&hide=HTML,CSS,VUE,JAVASCRIPT)](https://github.com/anuraghazra/github-readme-stats)
   
 </td>
 </tr>
