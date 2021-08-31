@@ -6,11 +6,11 @@ Feel Free to :bell:Subscribe!
 **#> While True: learn()**  
 Programming is not just about "Hello World",but a long way to go. Peace~:tada:
 
-社交平台：  
-* **Gitee(码云)**: **[Click Me](https://gitee.com/battlehawk)**  
-* **Personal Blog(个人博客)**: **[Click Me](//battlehawk233.cn)**  
-* **Netease Music(网易云主页)**: **[Click Me](//music.163.com/#/user/home?id=66732339)** (ID:HawkLegend)  
-* **BiliBili(B站主页)**: **[Click Me](https://space.bilibili.com/4916371)**
+### 社交平台：  
+* **Gitee (码云)** : **[Click Me](https://gitee.com/battlehawk)**  
+* **Personal Blog (个人博客)** : **[Click Me](//battlehawk233.cn)**  
+* **Netease Music (网易云主页)** : **[Click Me](//music.163.com/#/user/home?id=66732339)** (ID: HawkLegend)  
+* **BiliBili (B站主页)** : **[Click Me](https://space.bilibili.com/4916371)**
 
 <table>
 <tr>
