@@ -1,6 +1,6 @@
 ## 哈喽呀~(●'◡'●)
 
-<table border="0">
+<table>
 <tr>
 <td valign="middle" width="20%" align="center">
  
@@ -29,12 +29,12 @@ Programming is not just about "Hello World",but a long way to go. Peace~:tada:
 
 <table>
 <tr>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="50%" align="center">
   
 ![BATTLEHAWK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlehawk00&show_icons=true&count_private=true&locale=cn&include_all_commits=true)  
   
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="middle" width="50%" align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlehawk00&show_icons=true&locale=cn&hide=HTML,CSS,VUE,JAVASCRIPT)](https://github.com/anuraghazra/github-readme-stats)
   
