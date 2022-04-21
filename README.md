@@ -38,7 +38,7 @@ Programming is not just about "Hello World",but a long way to go. Peace~:tada:
 </td>
 <td valign="middle" width="50%" align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlehawk00&show_icons=true&locale=cn&hide=HTML,CSS,VUE,JAVASCRIPT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlehawk00&show_icons=true&locale=cn&hide=HTML,CSS,JAVASCRIPT,NUNJUCKS)](https://github.com/anuraghazra/github-readme-stats)
   
 </td>
 </tr>
