@@ -12,7 +12,7 @@
 软件工程在读，网易云音乐人，努力学习指弹中~ ψ(._. )>  欢迎关注！  
 A student major in Software Engineering, also a :headphones:EDM music producer with **3k+ fans** on Netease in China, learning :guitar:guitar finger style, trying to be a DJ.  
 Keep learning and try something out, which contributes a lot to my life long journey, and I believe, every cloud has a silver lining (*^_^*)  
-Feel Free to :bell:Subscribe!  
+Feel Free to :bell:follow me!  
 
 **#> While True: learn()**  
 Stay curious, and stay learned.  
