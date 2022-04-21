@@ -15,6 +15,8 @@ Keep learning and try something out, which contributes a lot to my life long jou
 Feel Free to :bell:Subscribe!  
 
 **#> While True: learn()**  
+Stay curious, and stay learned.  
+It's my tenet to keep on learning.  
 Programming is not just about "Hello World",but a long way to go. Peace~:tada:
 
 </td>
