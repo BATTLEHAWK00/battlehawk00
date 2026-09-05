@@ -1,45 +1,57 @@
-## 哈喽呀~(●'◡'●)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="BATTLEHAWK00 — code, sound and curiosity" src="./assets/hero-light.svg" width="100%">
+</picture>
 
-<table>
-<tr>
-<td valign="middle" width="20%" align="center">
- 
-![My Portrait](https://gravatar.loli.net/avatar/9397ee92df891fea25c9ad0fbdcf79bf)  
-  
-</td>
-<td valign="middle" width="80%" align="left">
- 
-软件工程在读，网易云音乐人，努力学习指弹中~ ψ(._. )>  欢迎关注！  
-A student major in Software Engineering, also a :headphones:EDM music producer with **3k+ fans** on Netease in China, learning :guitar:guitar finger style, trying to be a DJ.  
-Keep learning and try something out, which contributes a lot to my life long journey, and I believe, every cloud has a silver lining (*^_^*)  
-Feel Free to :bell:follow me!  
+<p align="center">
+  <a href="https://code1024.icu/">Blog</a> ·
+  <a href="https://music.163.com/#/user/home?id=66732339">NetEase Music</a> ·
+  <a href="https://space.bilibili.com/4916371">Bilibili</a> ·
+  <a href="mailto:battlehawk0_0@163.com">Email</a>
+</p>
 
-**#> While True: learn()**  
-Stay curious, and stay learned.  
-It's my tenet to keep on learning.  
-Programming is not just about "Hello World",but a long way to go. Peace~:tada:
+## 你好，我是 BATTLEHAWK00 👋
 
-</td>
-</tr>
-</table>
+一名喜欢把复杂问题做成实用工具的全栈开发者，也是一名电子音乐制作人。
 
-### 社交平台：  
-* **Gitee (码云)** : **[Click Me](https://gitee.com/battlehawk)**  
-* **Personal Blog (个人博客)** : **[Click Me](//battlehawk233.cn)**  
-* **Netease Music (网易云主页)** : **[Click Me](//music.163.com/#/user/home?id=66732339)** (ID: HawkLegend)  
-* **BiliBili (B站主页)** : **[Click Me](https://space.bilibili.com/4916371)**
+代码和音乐对我来说很相似：拆解结构、寻找节奏，然后把许多微小的选择组合成一个真正能工作的作品。我长期关注 Web 工程、自托管服务与开发者工具，也一直在学习新的表达方式。
 
-<table>
-<tr>
-<td valign="middle" width="50%" align="center">
-  
-![BATTLEHAWK00's GitHub stats](https://github-readme-stats.vercel.app/api?username=battlehawk00&show_icons=true&count_private=true&locale=cn&include_all_commits=true)  
-  
-</td>
-<td valign="middle" width="50%" align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=battlehawk00&show_icons=true&locale=cn&hide=HTML,CSS,VUE,JAVASCRIPT,NUNJUCKS)](https://github.com/anuraghazra/github-readme-stats)
-  
-</td>
-</tr>
-</table>
+> `while (true) { learn(); build(); share(); }`
+
+## 现在进行时
+
+- 🔭 构建 **[my-info-aggregator](https://github.com/BATTLEHAWK00/my-info-aggregator)**，探索更舒服的个人信息获取与阅读体验
+- 🧰 持续打磨 TypeScript / React / Node.js 工程能力，也在接触 Rust 与系统侧工具
+- 🎧 制作电子音乐，学习吉他指弹，让技术之外的灵感保持流动
+
+## 一些作品
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[my-info-aggregator](https://github.com/BATTLEHAWK00/my-info-aggregator)** | 面向个人的信息聚合与阅读工作台 | TypeScript |
+| **[BlogNode-dev](https://github.com/BATTLEHAWK00/BlogNode-dev)** | 模块化、轻量、支持主题与插件的博客平台 | Fastify · MongoDB |
+| **[hydro-prom-exporter](https://github.com/BATTLEHAWK00/hydro-prom-exporter)** | 为 Hydro OJ 提供可观测性的 Prometheus Exporter | TypeScript · Prometheus |
+
+## 工具箱
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,docker,git,linux,rust&perline=8" alt="TypeScript, React, Node.js, PostgreSQL, Docker, Git, Linux and Rust" />
+</p>
+
+## GitHub 一览
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BATTLEHAWK00&show_icons=true&hide_border=true&bg_color=00000000&title_color=7dd3fc&icon_color=22d3ee&text_color=cbd5e1&locale=cn">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BATTLEHAWK00&show_icons=true&hide_border=true&bg_color=00000000&title_color=0369a1&icon_color=0891b2&text_color=334155&locale=cn">
+  <img height="165" alt="BATTLEHAWK00 的 GitHub 数据" src="https://github-readme-stats.vercel.app/api?username=BATTLEHAWK00&show_icons=true&hide_border=true&bg_color=00000000&locale=cn">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BATTLEHAWK00&layout=compact&hide_border=true&bg_color=00000000&title_color=7dd3fc&text_color=cbd5e1&hide=html,css">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BATTLEHAWK00&layout=compact&hide_border=true&bg_color=00000000&title_color=0369a1&text_color=334155&hide=html,css">
+  <img height="165" alt="BATTLEHAWK00 常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BATTLEHAWK00&layout=compact&hide_border=true&bg_color=00000000&hide=html,css">
+</picture>
+
+---
+
+<p align="center"><i>Stay curious. Keep building.</i></p>

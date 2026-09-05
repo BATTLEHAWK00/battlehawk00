@@ -1,0 +1,16 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">BATTLEHAWK00 — code, sound and curiosity</title>
+  <desc id="desc">A dark banner combining a code cursor with an audio waveform.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#071521"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
+    <linearGradient id="signal" x1="70" y1="0" x2="1210" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8"/><stop offset="0.58" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#7DD3FC" stroke-opacity="0.055"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/><rect width="1280" height="320" rx="24" fill="url(#grid)"/><circle cx="1102" cy="24" r="230" fill="#312E81" fill-opacity="0.18"/>
+  <path d="M70 226H172L190 190L217 263L244 154L270 239L301 205H361L382 177L406 230L433 131L460 251L487 184L510 226H1210" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <text x="72" y="102" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="1">BATTLEHAWK00</text>
+  <text x="74" y="142" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" letter-spacing="0.8">FULL-STACK DEVELOPER  /  MUSIC PRODUCER</text>
+  <g transform="translate(1048 88)" stroke="url(#signal)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M0 0L42 38L0 76"/><path d="M65 76H126"/></g>
+  <text x="72" y="282" fill="#64748B" font-family="Consolas, SFMono-Regular, monospace" font-size="15">code / sound / curiosity</text>
+</svg>
